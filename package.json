@@ -26,6 +26,9 @@
     "react-test-renderer": "16.9.0"
   },
   "jest": {
-    "preset": "react-native"
+    "preset": "react-native",
+    "testPathIgnorePatterns": [
+      "<rootDir>/__tests__/imports.js"
+    ]
   }
 }
