@@ -1,6 +1,7 @@
 # Project Files
 #
 android/app/google-services.json
+ios/GoogleService-Info.plist
 
 # OSX
 #
