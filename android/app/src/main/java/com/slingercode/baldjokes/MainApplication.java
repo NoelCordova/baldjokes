@@ -1,4 +1,4 @@
-package com.baldjokes;
+package com.slingercode.baldjokes;
 
 import android.app.Application;
 import android.content.Context;
