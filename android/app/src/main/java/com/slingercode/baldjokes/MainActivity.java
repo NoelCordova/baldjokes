@@ -1,4 +1,4 @@
-package com.baldjokes;
+package com.slingercode.baldjokes;
 
 import com.facebook.react.ReactActivity;
 
